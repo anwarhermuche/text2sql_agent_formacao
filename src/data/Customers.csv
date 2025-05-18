@@ -1,0 +1,11 @@
+customer_id,name,email,region
+1,Empresa Alpha,contato@alpha.com,Sul
+2,Beta Traders,vendas@beta.com,Sudeste
+3,Gamma Comércio,suporte@gamma.com,Nordeste
+4,Delta Corp,financeiro@delta.com,Centro-Oeste
+5,Épsilon Ltda,contato@epsilon.com,Norte
+6,Zeta SA,contato@zeta.com,Sul
+7,Eta Solutions,vendas@eta.com,Sudeste
+8,Theta Comércio,suporte@theta.com,Nordeste
+9,Iota Ltda,financeiro@iota.com,Centro-Oeste
+10,Kappa Group,contato@kappa.com,Norte
