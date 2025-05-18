@@ -16,15 +16,16 @@ Tudo isso é feito por agentes separados e especializados, que cooperam entre si
 
 - **SQLAgent**: transforma linguagem natural em SQL (especificamente DuckDB).
 - **CheckerAgent**: verifica se a query é segura (sem DELETE, UPDATE etc.).
-- **Executor**: executa a consulta no banco local.
-- **Formatter**: transforma o resultado do DataFrame em markdown.
-- **Responder**: gera uma resposta natural e informal com base no resultado.
+- **DB Consulter Agent**: executa a consulta no banco local.
+- **DBA Agent**: Verifica se o resultado responde à pergunta do usuário.
+- **Marcelo Agent**: Uma piada interna, mas é o Agente responsável por dar a resposta final ao usuário.
 
 ## 📚 Tecnologias e ferramentas
 
 - Python 3.11+
 - DuckDB
-- Langchain / Pydantic
+- Langchain / LangGraph / Pydantic
+- Ollama para modelos locais (qwen2.5 3b, llama 3.1 latest)
 - Pandas
 - Arquitetura multi-agente
 
