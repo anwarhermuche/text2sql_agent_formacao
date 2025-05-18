@@ -1,6 +1,6 @@
 # 🧠 Sistema Multi-Agente para Consultas em Banco de Dados (DuckDB)
 
-Este projeto é um sistema **multi-agente inteligente** desenvolvido dentro da **[Formação Arquiteto de IA** da DascIA](https://lp.dascia.com.br/lcfaiafev25-matricula-pg1?utm_source=org&utm_medium=github&utm_campaign=PPDASCIAFAIA&utm_term=text2sql)**.  
+Este projeto é um sistema **multi-agente inteligente** desenvolvido dentro da **[Formação Arquiteto de IA da DascIA](https://lp.dascia.com.br/lcfaiafev25-matricula-pg1?utm_source=org&utm_medium=github&utm_campaign=PPDASCIAFAIA&utm_term=text2sql)**.  
 Na formação, mergulhamos fundo em **inteligência artificial aplicada**, com foco em **sistemas autônomos**, **orquestração de agentes**, **RAG**, **LLM Routing**, **automação com IA**, entre outros tópicos avançados do universo da IA moderna.
 
 ## 📌 O que é esse projeto?
